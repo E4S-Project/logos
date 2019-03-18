@@ -15,7 +15,7 @@ Presently, we have 3 E4S logos:
     <TH>Thumbnail</TH>
   </TR>
   <TR>
-    <TD>E4S-light-grey.png</TD>
+    <TD>E4S-light-grey.png (preferred)</TD>
     <TD><A HREF="https://github.com/E4S-Project/logos/blob/master/E4S-light-grey.png"><IMG SRC="E4S-light-grey.png" width="350"/></A></TD>
   </TR>
   <TR>
@@ -24,6 +24,6 @@ Presently, we have 3 E4S logos:
   </TR>
   <TR>
     <TD>E4S-dark-grey.png</TD>
-    <TD><A HREF="https://github.com/E4S-Project/logos/blob/master/E4S-dark-grey.png"><IMG SRC="Trilinos_logo_square.jpg" width="350"/></A></TD>
+    <TD><A HREF="https://github.com/E4S-Project/logos/blob/master/E4S-dark-grey.png"><IMG SRC="E4S-dark-grey.png" width="350"/></A></TD>
   </TR>
 </Table>
